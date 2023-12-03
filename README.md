@@ -58,3 +58,7 @@ Then follow the normal procedure in GitHub Pages and select the `gh-pages` branc
 
 output to the program can be found below
 
+
+https://github.com/funmi-bit/A-simple-Todo-application/assets/89481955/e6b47e2b-c95b-4352-8de3-a131bfe0d5ff
+
+
